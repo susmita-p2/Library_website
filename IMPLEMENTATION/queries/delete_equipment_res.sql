@@ -1,0 +1,1 @@
+DELETE FROM equipment_resevations WHERE equipment_res_id=(?);

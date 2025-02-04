@@ -1,0 +1,1 @@
+SELECT staff.user_id FROM staff INNER JOIN users USING (user_id);

@@ -1,0 +1,1 @@
+DELETE FROM equipment_loans WHERE equipment_id = (?);

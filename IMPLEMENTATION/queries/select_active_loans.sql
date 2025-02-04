@@ -1,0 +1,1 @@
+SELECT loan_id FROM loans WHERE loan_actual_return IS NULL;

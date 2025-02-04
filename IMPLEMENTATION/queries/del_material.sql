@@ -1,0 +1,1 @@
+DELETE FROM materials WHERE mat_id = (?);

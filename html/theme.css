@@ -1,0 +1,42 @@
+h1, h2, h3, p, pre, table, ul, li {
+    max-width: 800px;
+    color: black;
+    margin-top:5px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+h1 {
+    margin-bottom:10px;
+  }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top:10px;
+    margin-bottom:5px;
+    margin-left:10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+thead {
+  background-color:rgb(184, 226, 184);
+}
+
+th, td, tr, thead {
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+body {
+    background-color: white;
+  }
+
+thead {
+    font-weight: bold;
+  }
+
+input {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }

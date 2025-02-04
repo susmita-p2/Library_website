@@ -1,0 +1,5 @@
+This directory will contain our webpages.
+
+We will each need to create links to this folder to connect our html folders in our 
+personal repositories to this one so that Dr. Bailey can access our project webpages from
+our individual webpages.

@@ -1,0 +1,1 @@
+DELETE FROM material_resevations WHERE mat_res_id =(?);

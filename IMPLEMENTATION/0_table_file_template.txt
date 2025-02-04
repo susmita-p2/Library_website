@@ -1,0 +1,16 @@
+/* This file creates the table_name table. */
+
+USE library;
+
+DROP TABLE IF EXISTS table_name;
+CREATE TABLE table_name (
+	PRIMARY KEY (pk_field),
+	field1		field1_type,
+	field2		field1_type,
+	field3		field1_type
+);
+
+INSERT INTO table_name(field1, field_2, field_3)
+VALUES	('f1', 'f2', 'f3'),
+	('f1', 'f2', 'f3'),
+	('f1', 'f2', 'f3');

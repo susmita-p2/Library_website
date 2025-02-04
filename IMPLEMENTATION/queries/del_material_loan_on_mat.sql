@@ -1,0 +1,1 @@
+DELETE FROM material_loans WHERE mat_id = (?);

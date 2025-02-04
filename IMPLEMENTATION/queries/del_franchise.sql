@@ -1,0 +1,1 @@
+DELETE FROM franchises WHERE franchise_id = (?);
